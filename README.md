@@ -87,9 +87,9 @@ FTP 站点类似于云盘，我们可以对 FTP 站点进行文件的上传、�
 
 前往课程主页：https://github.com/java-b
 
-熟悉[如何在讨论区中发布新的帖子？](https://github.com/java-a/syllabus/issues/1)及[如何回复一个帖子？](https://github.com/java-a/syllabus/issues/2)。
+熟悉[如何在讨论区中发布新的帖子？](https://github.com/java-b/Forum/issues/3)及[如何回复一个帖子？](https://github.com/java-b/Forum/issues/2)。
 
-`注意` **请在9.5日24点前在[如何回复一个帖子？](https://github.com/java-a/syllabus/issues/2)中回复你的学号和姓名**  
+`注意` **请在9.5日24点前在[如何回复一个帖子？](https://github.com/java-b/Forum/issues/2)中回复你的学号和姓名**  
 
 <h2 id='4'>第四步 下载安装 JDK 1.8 并配置环境变量</h2>
 请在 FTP 的 Materials 文件夹或者 Java 官网下载 [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 安装包并安装。  
