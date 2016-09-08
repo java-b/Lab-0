@@ -105,7 +105,9 @@ FTP 站点类似于云盘，我们可以对 FTP 站点进行文件的上传、�
 如果说轻量级编辑器是轻便的“手枪”，那么集成开发环境就是强大的“火炮”。它为代码编写提供了极为完善的环境，我们将在以后的学习中用到。
 
 - [Intellij IDEA](https://www.jetbrains.com/idea/) `推荐使用` 功能丰富，将是大家未来编写程序的主力。
-- [Eclipse](https://www.eclipse.org/) 
+- [Eclipse](https://www.eclipse.org/)   
+
+`注意`  **FTP的Materials文件夹下有Atom和Intellij IDEA的安装包，课后请在自己的电脑上安装好这两个软件** 
 
 <h2 id='6'>第六步 写一个 Java 小程序</h2>
 ###创建java程序  
