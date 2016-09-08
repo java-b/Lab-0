@@ -7,7 +7,7 @@
 > **2. 遇到机器故障，请联系机房管理员或者助教。**
 >
 > 请加入此QQ群 进群后改名为 姓名+学号尾号
->![QQ](https://github.com/java-b/Lab-0/blob/master/QR.png)
+>![QQ](![image](https://cloud.githubusercontent.com/assets/6169077/18339078/f9eac3e8-75cf-11e6-8afe-63288628784d.png))
 >
 >
 > 本次 Lab 目标
