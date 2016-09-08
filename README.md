@@ -108,6 +108,9 @@ FTP 站点类似于云盘，我们可以对 FTP 站点进行文件的上传、�
 - [Eclipse](https://www.eclipse.org/) 
 
 <h2 id='6'>第六步 写一个 Java 小程序</h2>
+###创建java程序  
+
+####第一种方法 使用windows自带记事本
 首先，请在自己的文件夹下新建一个文本文件（txt格式），打开。  
 粘贴上以下内容：  
 ```
@@ -117,11 +120,26 @@ FTP 站点类似于云盘，我们可以对 FTP 站点进行文件的上传、�
         System.out.println("Hello World!");  
       }  
   }
-```
+```  
+![image](https://cloud.githubusercontent.com/assets/6169077/18339163/89128a06-75d0-11e6-8116-d1aaa1d942d4.png)  
 保存并将文件名修改为HelloWorld.java  
 ![image](https://cloud.githubusercontent.com/assets/6169077/18313123/af429130-753f-11e6-8ded-e23f5e8b3104.png)  
 请点击是  
-这样我们就写好了一个在控制台中打印“Hello World!”的小程序。  
+这样我们就写好了一个在控制台中打印“Hello World!”的小程序。   
+####第二种方法 使用Atom
+打开Atom，粘贴上以下内容：  
+```
+  public class HelloWorld {  
+      //输出一行字符串“Hello World!”  
+      public static void main(String[] args) {  
+        System.out.println("Hello World!");  
+      }  
+  }
+```  
+然后点击菜单栏File->Save As...  
+![image](https://cloud.githubusercontent.com/assets/6169077/18339143/5c91db76-75d0-11e6-98b4-a9045b2c07b0.png)  
+在弹出的菜单中文件名处填写`HelloWorld.java`  
+![image](https://cloud.githubusercontent.com/assets/6169077/18339258/1a7ded50-75d1-11e6-962b-f0670b350a5f.png)  
 下面我们来编译、运行这个程序：  
 
 ###编译
